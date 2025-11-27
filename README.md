@@ -157,21 +157,16 @@ python main.py --method bm25 --no-stemming
 ##  Project Structure
 
 ```
-Assigment # 3/
-├── Articles.csv                 # Dataset (2,692 news articles)
-├── requirements.txt             # Python dependencies
-├── README.md                    # This file
-├── TECHNICAL_DOCUMENTATION.docx # Comprehensive technical report
+
+├── Articles.csv                
+├── requirements.txt            
+├── README.md                   
+├── TECHNICAL_DOCUMENTATION.docx 
 │
-├── preprocessing.py             # Text preprocessing module
-├── retrieval.py                 # Retrieval algorithms
-├── evaluation.py                # Evaluation metrics
-├── main.py                      # Main interface
-├── test_system.py               # Test suite
-├── demo.py                      # Quick demo script
-│
-└── evaluation_results/          # Generated evaluation outputs
-    ├── evaluation_results.csv   # Detailed metrics
-    ├── metrics_by_k.png         # Precision/Recall/F1 plots
-    └── f1_by_query.png          # Per-query performance
+├── preprocessing.py           
+├── retrieval.py               
+├── evaluation.py              
+├── main.py                    
+├── test_system.py             
+├── demo.py                    
 ```
