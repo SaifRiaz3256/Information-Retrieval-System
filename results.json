@@ -1,0 +1,167 @@
+{
+  "oil prices": {
+    "num_results": 10,
+    "top_results": [
+      {
+        "doc_id": 765,
+        "score": 0.9837072138065441,
+        "Heading": "POL prices to remain unchanged for July"
+      },
+      {
+        "doc_id": 14,
+        "score": 0.9724634789308904,
+        "Heading": "brent crude steady around 50"
+      },
+      {
+        "doc_id": 988,
+        "score": 0.9685783841418294,
+        "Heading": "Oil prices fall US drillers add rigs speculators cut long positi"
+      },
+      {
+        "doc_id": 50,
+        "score": 0.9660530086624504,
+        "Heading": "furnace oil price rises by about rs 2000 per "
+      },
+      {
+        "doc_id": 431,
+        "score": 0.959272505899073,
+        "Heading": "US crude oil prices approach 20 pc fall since beginning of 2016"
+      },
+      {
+        "doc_id": 271,
+        "score": 0.9541553921611892,
+        "Heading": "oil prices swing wildly in china uncertainty"
+      },
+      {
+        "doc_id": 520,
+        "score": 0.9515675984088909,
+        "Heading": "Oil prices stable as market seen bottoming but oversupply linger"
+      },
+      {
+        "doc_id": 2525,
+        "score": 0.9324329188176178,
+        "Heading": "OPEC scrambles agree crucial oil output cu"
+      },
+      {
+        "doc_id": 712,
+        "score": 0.9304106855746681,
+        "Heading": "Oil prices near 2016 hig"
+      },
+      {
+        "doc_id": 133,
+        "score": 0.9214220335436402,
+        "Heading": "oil prices firm after strong apri"
+      }
+    ]
+  },
+  "stock market": {
+    "num_results": 10,
+    "top_results": [
+      {
+        "doc_id": 6,
+        "score": 1.0,
+        "Heading": "bullish kse jumps over 33000 psychological barrier"
+      },
+      {
+        "doc_id": 745,
+        "score": 0.9942070951520355,
+        "Heading": "Pakistan stocks fall 2 pct Brexit volatility"
+      },
+      {
+        "doc_id": 253,
+        "score": 0.9863650578275099,
+        "Heading": "kse down 1419 points at closing"
+      },
+      {
+        "doc_id": 726,
+        "score": 0.9267486898425841,
+        "Heading": "Pakistan shares higher best weekly gai"
+      },
+      {
+        "doc_id": 2612,
+        "score": 0.8181376226677052,
+        "Heading": "Pakistan Stock Exchange crosses 50000 points first time history"
+      },
+      {
+        "doc_id": 94,
+        "score": 0.8178854991984584,
+        "Heading": "free fall continues as kse 100 plummets 1000 poi"
+      },
+      {
+        "doc_id": 724,
+        "score": 0.8169438194737675,
+        "Heading": "Pakistan shares higher MSCI annou"
+      },
+      {
+        "doc_id": 817,
+        "score": 0.8106531535002224,
+        "Heading": "US Ambassador rings trading bell Stock Exchang"
+      },
+      {
+        "doc_id": 718,
+        "score": 0.8044306691024519,
+        "Heading": "Pakistani stocks end higher ahead of MSCI annou"
+      },
+      {
+        "doc_id": 534,
+        "score": 0.7943376411094061,
+        "Heading": "Stocks fall gold and govt bonds rise after Brussels explosi"
+      }
+    ]
+  },
+  "economic growth": {
+    "num_results": 10,
+    "top_results": [
+      {
+        "doc_id": 512,
+        "score": 1.0,
+        "Heading": "Iran expects economic growth above 5 pc in 2016"
+      },
+      {
+        "doc_id": 502,
+        "score": 1.0,
+        "Heading": "Iran expects economic growth above 5 pc in 2016"
+      },
+      {
+        "doc_id": 169,
+        "score": 0.8967672752689346,
+        "Heading": "economic growth was 4.2 percent economic survey 2014 15"
+      },
+      {
+        "doc_id": 563,
+        "score": 0.8688782564758359,
+        "Heading": "IMF cuts global growth outlook agai"
+      },
+      {
+        "doc_id": 2495,
+        "score": 0.8683598288051775,
+        "Heading": "World Bank praises Pak progress restoring macroeconomic stability"
+      },
+      {
+        "doc_id": 2433,
+        "score": 0.8644160105396034,
+        "Heading": "IMF warns of protectionist threat to global gr"
+      },
+      {
+        "doc_id": 710,
+        "score": 0.8434365533384536,
+        "Heading": "World Bank slashes global growth forecast to 24 per"
+      },
+      {
+        "doc_id": 656,
+        "score": 0.8245894312164856,
+        "Heading": "Pakistan central bank cuts interest rates growth lag"
+      },
+      {
+        "doc_id": 168,
+        "score": 0.8175438749012709,
+        "Heading": "pakistan economic survey growth target for 2014 15 missed"
+      },
+      {
+        "doc_id": 421,
+        "score": 0.8003974694680027,
+        "Heading": "World Bank cuts global economic growth ou"
+      }
+    ]
+  }
+}
